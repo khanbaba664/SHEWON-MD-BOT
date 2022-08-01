@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +923187028664
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,12 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
+global.owner = ['923080613785','']
+global.premium = ['923080613785','923080613785']
 global.botname = 'SHEWON MD BOT'
 global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
-global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
+global.group1 = 'https://chat.whatsapp.com/JXx5gGQqkWa2xLHe021cBO'
+global.group2 = 'https://chat.whatsapp.com/JXx5gGQqkWa2xLHe021cBOp'
 global.packname = 'SHEWON MD BOT'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
 global.monayawal = '100000'
