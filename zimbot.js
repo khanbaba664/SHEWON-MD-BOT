@@ -8,7 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US :923080613785
+
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -257,8 +258,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['94784997828']
-global.bothelp = ['94784997828']
+global.botdev = ['923080613785']
+global.bothelp = [923080613785']
 
 //function rpg
    const { 
